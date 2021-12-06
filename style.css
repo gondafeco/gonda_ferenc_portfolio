@@ -1,0 +1,186 @@
+body{
+	font-family: Montserrat;
+	background-color: lightblue;
+	line-height: 20px;
+	margin: 30px;
+	background-image: url("hatter.jpg");
+
+}
+#cim{
+	text-align: center;
+	font-size: 24px;
+	color: lightblue;
+}
+.fejlec{
+	float: left;
+	width: 25%;
+	text-align: center;
+
+	border: 3px solid black;
+	border-radius: 5px;
+	box-sizing: border-box;
+
+	background-color: lightblue;
+
+}
+.clearfix{
+	clear: both;
+}
+a{
+	text-decoration: none;
+	color: teal;
+}
+a:visited{
+	color: teal;
+}
+.doboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 500px;
+	background-color: lightblue;
+}
+.doboz img{
+	float: left;
+	width: 15%;
+	height: auto;
+	margin: 30px;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 4px;
+	border-color: darkgray;
+	margin: 20px;
+}
+.szoveg h2{
+	
+	line-height: 2em;
+	font-size: 32px;
+}
+.szoveg p{
+	font-size: 22px;
+	line-height: 28px;
+	padding-right: 35px;
+}
+.munkaimdoboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 320px;
+	background-color: lightblue;
+	margin: 40px;
+}
+.munkaimdoboz img{
+	float: left;
+	width: 15%;
+	height: auto;
+	margin: 30px;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 4px;
+	border-color: darkgray;
+	margin: 20px;
+}
+/*#pongkep{
+	width: 15%;
+} */
+.aknakeresodoboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 320px;
+	background-color: lightblue;
+	margin-bottom: 30px;
+	
+}
+.pongdoboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 280px;
+	background-color: lightblue;
+	margin-bottom: 30px;
+	
+}
+.aknakeresodoboz img{
+	float: left;
+	width: auto;
+	height: auto;
+	margin: 30px;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 4px;
+	border-color: darkgray;
+	margin: 20px;
+}
+.pongdoboz img{
+	float: left;
+	width: auto;
+	height: 60%;
+	margin: 30px;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 4px;
+	border-color: darkgray;
+	margin: 20px;
+}
+.kilovodoboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 280px;
+	background-color: lightblue;
+	margin-bottom: 30px;
+	}
+.kilovodoboz img{
+	float: left;
+	width: auto;
+	height: 65%;
+	margin: 30px;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 4px;
+	border-color: darkgray;
+	margin: 20px;
+}
+.zarthelyidoboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 280px;
+	background-color: lightblue;
+	margin-bottom: 30px;
+	}
+.zarthelyidoboz img{
+	float: left;
+	width: auto;
+	height: 60%;
+	margin: 30px;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 4px;
+	border-color: darkgray;
+	margin: 20px;
+}
+.elerhetosegdoboz{
+	border: 3px solid black;
+	border-radius: 5px;
+	height: 120px;
+	width: 500px;
+	background-color: lightblue;
+	margin-top: 30px;
+	}
+	.tervdoboz{
+    border: 3px solid black;
+	border-radius: 5px;
+	height: auto;
+	background-color: lightblue;
+	margin-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+	.tervdoboz img{
+		height: auto;
+		width: 700px;
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 30px;
+		display: block;
+
+	}
+	#zaroszoveg{
+		padding: 30px;
+	}
